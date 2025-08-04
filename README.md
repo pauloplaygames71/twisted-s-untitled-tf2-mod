@@ -1,4 +1,10 @@
-# Source SDK 2013
+# ...Hi??
+
+uh, idk what i will do with this, i dont even know how to code in c++
+
+but i did manage to program in rsdk(the engine used in the sonic 1, cd, 2 & 3 remasters)'s programing language, so uhh.... maybe?
+
+## Below is the Rest of the og readme.md (does md stand for mega drive ???, sonic reference??????????)
 
 Source code for Source SDK 2013.
 
